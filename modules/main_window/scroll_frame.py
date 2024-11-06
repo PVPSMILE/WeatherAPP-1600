@@ -8,5 +8,5 @@ scrollabel_frame = ctk.CTkScrollableFrame(app,
     scrollbar_button_color= "#096C82",
     scrollbar_button_hover_color= "#096C82",
 )
-
-scrollabel_frame.pack(side= "left") 
+                    
+scrollabel_frame.pack(side= "left")                         

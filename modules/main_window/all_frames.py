@@ -26,7 +26,7 @@ class City_Frame(ctk.CTkFrame):
     
         curent_position =  ctk.CTkLabel(
             master = self,
-            text = 'Curent Position',
+            text = 'Николай жук❤️',
             font = ('Roboto Slab', 16, 'bold'),
             text_color = 'white'
         )
